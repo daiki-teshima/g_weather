@@ -1,0 +1,4 @@
+#configは無視だよ！
+config.js
+#package.jsonいるからnode_modulesも無視でいいんじゃないの？
+node_modules/

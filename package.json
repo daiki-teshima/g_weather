@@ -1,0 +1,24 @@
+{
+  "name": "g_weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daiki-teshima/g_weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daiki-teshima/g_weather/issues"
+  },
+  "homepage": "https://github.com/daiki-teshima/g_weather#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "lodash": "^4.16.6"
+  }
+}
